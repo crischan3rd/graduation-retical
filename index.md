@@ -1,7 +1,14 @@
 ---
-title: Cristian Heechan Kim II
+title: none
 layout: default
 ---
+
+<style>
+h1:first-of-type {
+  display: none;
+}
+</style>
+
 
 ### 1. F. Schubert — Der Doppelgänger
 
