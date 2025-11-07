@@ -9,7 +9,7 @@ h1:first-of-type {
 }
 </style>
 
-## Title
+## Lyrics
 
 ### 1. F. Schubert — Der Doppelgänger
 
