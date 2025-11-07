@@ -1,4 +1,9 @@
-### 1. Franz Schubert — Der Doppelgänger
+---
+title: Cristian Heechan Kim II
+layout: default
+---
+
+### 1. F. Schubert — Der Doppelgänger
 
 Still ist die Nacht, es ruhen die Gassen,  
 고요한 밤, 거리는 잠들어 있다.
@@ -36,7 +41,7 @@ Das mich gequält auf dieser Stelle
 So manche Nacht, in alter Zeit?  
 오랜 세월 동안, 그 많은 밤들에!
 
-### 2. Hugo Wolf — Wohl denk ich oft
+### 2. H. Wolf — Wohl denk ich oft
 
 Wohl denk ich oft an mein vergangnes Leben,  
 자주 나는 지난 내 삶을 생각하네.
@@ -78,7 +83,7 @@ Und, daß ich da bin, wissen alle Leute!
 에야 데야 어서 노 저어라 고향에 가자  
 아득한 수로만리 고향 산천 어디런가  
 
-### 4. Gioachino Rossini — “La calunnia è un venticello”
+### 4. G. Rossini — La calunnia
 
 La calunnia è un venticello  
 비방은 한 줄기 산들바람과 같지요.
