@@ -1,16 +1,128 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="ko">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2685.1">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>간단한 게시판</title>
+  <style>
+    body {
+      font-family: "Noto Sans KR", sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    .board {
+      max-width: 800px;
+      margin: 30px auto;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+      text-align: center;
+    }
+
+    th {
+      background-color: #f0f0f0;
+    }
+
+    .write-btn {
+      display: inline-block;
+      padding: 8px 16px;
+      margin-bottom: 15px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+
+    .write-form {
+      display: none;
+      margin-top: 20px;
+    }
+
+    .write-form input, .write-form textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .write-form button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .write-form button:hover {
+      background-color: #45a049;
+    }
   </style>
 </head>
 <body>
-  <h1>Hello Heechan</h1>
+  <h1>간단한 게시판</h1>
+
+  <div class="board">
+    <a href="#" class="write-btn" onclick="toggleForm()">글쓰기</a>
+
+    <table>
+      <thead>
+        <tr>
+          <th>번호</th>
+          <th>제목</th>
+          <th>작성자</th>
+          <th>날짜</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td><a href="#">예시 게시글입니다.</a></td>
+          <td>홍길동</td>
+          <td>2025-11-07</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td><a href="#">두 번째 글</a></td>
+          <td>김철수</td>
+          <td>2025-11-06</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="write-form" id="writeForm">
+      <h3>새 글 작성</h3>
+      <input type="text" placeholder="제목을 입력하세요" />
+      <input type="text" placeholder="작성자" />
+      <textarea rows="5" placeholder="내용을 입력하세요"></textarea>
+      <button>등록</button>
+    </div>
+  </div>
+
+  <script>
+    function toggleForm() {
+      const form = document.getElementById('writeForm');
+      form.style.display = form.style.display === 'block' ? 'none' : 'block';
+    }
+  </script>
 </body>
 </html>
