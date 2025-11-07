@@ -1,5 +1,5 @@
 ---
-title: none
+title: Heechan Kim
 layout: default
 ---
 
@@ -9,6 +9,7 @@ h1:first-of-type {
 }
 </style>
 
+## Title
 
 ### 1. F. Schubert — Der Doppelgänger
 
@@ -48,6 +49,8 @@ Das mich gequält auf dieser Stelle
 So manche Nacht, in alter Zeit?  
 오랜 세월 동안, 그 많은 밤들에!
 
+---
+
 ### 2. H. Wolf — Wohl denk ich oft
 
 Wohl denk ich oft an mein vergangnes Leben,  
@@ -74,6 +77,8 @@ Genannt in Lob und Tadel bin ich heute,
 Und, daß ich da bin, wissen alle Leute!  
 그리고 내가 존재함을 모든 사람이 알고 있네.
 
+---
+
 ### 3. 조두남 — 뱃노래 (시: 조석호)
 
 푸른 하늘에 물새가 춤춘다  
@@ -89,6 +94,8 @@ Und, daß ich da bin, wissen alle Leute!
 바라다보면은 하늘도 멀구나  
 에야 데야 어서 노 저어라 고향에 가자  
 아득한 수로만리 고향 산천 어디런가  
+
+---
 
 ### 4. G. Rossini — La calunnia
 
