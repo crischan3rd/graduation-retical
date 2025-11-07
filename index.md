@@ -1,7 +1,7 @@
 ---
 title: Heechan Kim
 layout: default
-image: https://i.postimg.cc/j2xgN929/image.png
+image: https://i.postimg.cc/85McWKxN/IMG-0965.png
 ---
 
 <style>
@@ -10,7 +10,7 @@ h1:first-of-type {
 }
 </style>
 
-![](https://i.postimg.cc/j2xgN929/image.png)
+![](https://i.postimg.cc/85McWKxN/IMG-0965.png)
 
 ## Lyrics
 
