@@ -25,7 +25,6 @@ So manche Nacht, in alter Zeit?<br/>
 
   <!-- 오른쪽 열 -->
   <div style="flex:1; min-width:45%;">
-    <h3>번역 (Translation)</h3>
     <p style="line-height:1.6;">
       고요한 밤, 거리는 잠들어 있다.<br/>
 저 집에는 나의 사랑이 살았었지.<br/>
@@ -46,7 +45,7 @@ So manche Nacht, in alter Zeit?<br/>
 
 </div>
 
-<h3>Hugo Wolf — Wohl denk ich oft</h3>
+<h3>2. Hugo Wolf — Wohl denk ich oft</h3>
 
 <!-- 두 열 가사 템플릿 -->
 <div style="display:flex; flex-direction:row; justify-content:space-between; align-items:flex-start; gap:40px;">
@@ -68,7 +67,6 @@ Und, daß ich da bin, wissen alle Leute!<br/>
 
   <!-- 오른쪽 열 -->
   <div style="flex:1; min-width:45%;">
-    <h3>번역 (Translation)</h3>
     <p style="line-height:1.6;">
       <!-- 여기에 번역문 입력 -->
       자주 나는 지난 내 삶을 생각하네.<br/>
@@ -85,8 +83,7 @@ Und, daß ich da bin, wissen alle Leute!<br/>
 </div>
 
 
-<h3>조두남 — 뱃노래</h3>
-(Text: Heinrich Heine, aus “Schwanengesang” D.957 Nr.13)
+<h3>3. 조두남 — 뱃노래</h3>
 
 <!-- 두 열 가사 템플릿 -->
 <div style="display:flex; flex-direction:row; justify-content:space-between; align-items:flex-start; gap:40px;">
@@ -113,7 +110,7 @@ Und, daß ich da bin, wissen alle Leute!<br/>
 </div>
 
 
-<h3>Gioachino Rossini — “La calunnia è un venticello”</h3>
+<h3>4. Gioachino Rossini — “La calunnia è un venticello”</h3>
 
 <!-- 두 열 가사 템플릿 -->
 <div style="display:flex; flex-direction:row; justify-content:space-between; align-items:flex-start; gap:40px;">
@@ -162,7 +159,6 @@ Per gran sorte va a crepar!<br/>
 
   <!-- 오른쪽 열 -->
   <div style="flex:1; min-width:45%;">
-    <h3>번역 (Translation)</h3>
     <p style="line-height:1.6;">
       <!-- 여기에 번역문 입력 -->
       비방은 한 줄기 산들바람과 같지요.<br/>
